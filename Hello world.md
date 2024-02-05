@@ -37,3 +37,7 @@ ___жирный курсив___
 # Ссылки
 
 [Текст ссылки](https://www.example.com)
+
+# Изображения
+
+![Текст описания](https://www.example.com/image.jpg)
